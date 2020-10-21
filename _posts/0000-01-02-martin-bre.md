@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Es ist Mittwoch, meine Kerle.
 Use the left arrow to go back!
